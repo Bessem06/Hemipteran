@@ -1,2 +1,2 @@
-The subfolder contains the transcriptome assemblies of three hemipteran insects
+The subfolder contains the transcriptome assemblies of three hemipteran insects.
 In details, it contain for each insect a compressed folder with two files, one with the extention fasta and another with the extention faa. The file with the extention fasta is the transcriptome assembled using Trinity. The file with the extention faa is the multifasta containing the translated proteins resulting from the transdecoder annotation. It contains also an excel file with the link between the transcripts and the gene names used in the metabolic models
